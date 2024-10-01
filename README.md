@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- shadcn theme is set to slate. to change that delete component.js and use 👉🏻 npx shadcn@latest init 
+<p>⭕ shadcn theme is set to default & slate. to change that delete component.js and use 👉🏻 npx shadcn@latest init </p>
 
 
 Currently, two official plugins are available:
